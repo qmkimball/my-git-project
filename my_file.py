@@ -6,4 +6,4 @@ def hi_there():
     print("hi")
     
 def new_one():
-    print("hi")
+    print("What did you do??")
